@@ -1,1 +1,2 @@
 file2 edited by branch2 version1
+file2 edited by branch2 version2
