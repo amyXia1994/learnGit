@@ -1,2 +1,3 @@
 this is file A version 5 by branch1;
 this is file A version 2 by branch2;
+this is file A version 3 by branch3;
