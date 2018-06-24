@@ -1,1 +1,2 @@
-this is file A version 1;
+this is file A version 1 by branch1;
+this is file A version 2 by branch2;
